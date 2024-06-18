@@ -1,4 +1,4 @@
-# Project Title
+# DIP with DDPM
 
 This project uses a Denoising Diffusion Probabilistic Model (DDPM) and a Deep Image Prior (DIP) to train on the MNIST dataset and generate final pictures.
 
